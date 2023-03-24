@@ -1,0 +1,11 @@
+.greenColumn {
+    background-color: #d8ffc4;
+}
+
+.redColumn {
+    background-color: #ffdada;
+}
+
+.rowCurrency {
+    cursor: pointer
+}

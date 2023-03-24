@@ -1,0 +1,12 @@
+.boxStyles {
+    background: #c8cbcb;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: #222;
+    min-height: 20rem;
+    border-radius: 20px;
+    padding: 4rem 2rem;
+    box-shadow: 9px 8px 15px 6px rgba(34, 60, 80, 0.2);
+    position: relative;
+}
